@@ -70,6 +70,24 @@ If this application has been useful to you and you wish to support me in improvi
 *Support is entirely optional; the application will remain free and open for everyone.*
 
 ---
+## IMAGES
+#1
+![VIEW 1](img/1.jpg)
+
+#2
+![VIEW 2](img/1.jpg)
+
+#3
+![VIEW 3](img/1.jpg)
+
+#4
+![VIEW 4](img/1.jpg)
+
+#5
+![VIEW 5](img/1.jpg)
+
+
+---
 
 ## 👨‍💻 Developer
 Project created by **Alca**, Computer Systems Engineer Mexican.
